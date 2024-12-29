@@ -1,6 +1,8 @@
 # gkappa
 Generalized kappa Use gkappa (ragree) With (In) R Software
 
+https://www.youtube.com/watch?v=Yn3f7CgZiDE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
